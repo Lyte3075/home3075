@@ -2,4 +2,4 @@
 A fun small home server/lab frontend interface I made for fun.
 
 ## Links
-No links yet...
+Link: https://home3075.pages.dev/
